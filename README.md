@@ -1,11 +1,11 @@
-About r-fontquiver
-==================
+About r-fontquiver-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fontquiver-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=fontquiver
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fontquiver-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides a set of fonts with permissive licences. This is useful when you want to avoid system fonts to make sure your outputs are reproducible.
 
